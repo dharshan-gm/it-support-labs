@@ -1,7 +1,7 @@
 # Windows Administration & Virtualization Lab
 
 ## Objective
-Practice core Windows 11 administration tasks a help desk technician handles daily: user account creation, file permission management, safe change-testing via VM snapshots, event log diagnosis, and task automation.
+Practice core Windows 10/11 administration tasks a help desk technician handles daily: user account creation, file permission management, safe change-testing via VM snapshots, event log diagnosis, and task automation.
 
 ## Environment / Tools
 - Oracle VirtualBox Manager
